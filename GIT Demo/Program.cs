@@ -17,6 +17,7 @@ namespace GIT_Demo
             // Master Application
             Console.WriteLine("Master Page Updated Via GIT Repo");
             Console.WriteLine("Master Changes did via Welcome");
+            Console.WriteLine("Master Page stash");
         }
     }
 }
