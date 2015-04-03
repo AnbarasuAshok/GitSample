@@ -16,6 +16,7 @@ namespace GIT_Demo
             Console.WriteLine("V1 Changes Adding");
             // Master Application
             Console.WriteLine("Master Page Updated Via GIT Repo");
+            Console.WriteLine("Master Changes did via Welcome");
         }
     }
 }
