@@ -12,6 +12,7 @@ namespace GIT_Demo
         {
             Console.WriteLine("Welcome to GIt Demo!");
             Console.WriteLine("Master Setup!");
+            Console.WriteLine("V1");
         }
     }
 }
